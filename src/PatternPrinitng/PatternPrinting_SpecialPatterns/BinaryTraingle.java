@@ -1,4 +1,4 @@
-package PatternPrinting_SpecialPatterns;
+package PatternPrinitng.PatternPrinting_SpecialPatterns;
 import java.util.Scanner;
 public class BinaryTraingle {
     public static void main(String[] args) {

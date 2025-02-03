@@ -1,4 +1,4 @@
-package PatternPrinting_traingles;
+package PatternPrinitng.PatternPrinting_traingles;
 
 import java.util.Scanner;
 

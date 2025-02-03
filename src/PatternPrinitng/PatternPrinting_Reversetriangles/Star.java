@@ -1,15 +1,13 @@
-package PatternPrinting_SpecialPatterns;
+package PatternPrinitng.PatternPrinting_Reversetriangles;
 import java.util.Scanner;
-public class Floyds_Triangle {
+public class Star {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the value of n:-");
         int n=sc.nextInt();
-        int a=1;
-        for(int i=1;i<=n;i++){
-            for(int j=1;j<=i;j++){
-                System.out.print(a +" ");
-                a++;
+        for (int i=1;i<=n;i++){
+            for(int j=1;j<=n+1-i;j++){
+                System.out.print("*" + " ");
             }
             System.out.println();
         }

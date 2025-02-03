@@ -1,4 +1,4 @@
-package PatternPrinting_Compositepatterns;
+package PatternPrinitng.PatternPrinting_Compositepatterns;
 import java.util.Scanner;
 public class NumberTraingleFlipped {
     public static void main(String[] args) {
