@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 import java.util.Scanner;
 public class InputOfArray {
     public static void main(String[] args) {
