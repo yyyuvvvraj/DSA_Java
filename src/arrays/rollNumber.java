@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 import java.util.Scanner;
 public class rollNumber {
     public static void main(String[] args) {
